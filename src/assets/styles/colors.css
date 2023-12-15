@@ -1,0 +1,5 @@
+:root {
+    --header-bg-color: rgba(245, 236, 236, 0.5);
+    --card-bg-color: rgba(245, 236, 236, 0.6);
+    --card-button-color: var(--card-bg-color);
+}
